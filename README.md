@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript bug involving null pointer exceptions and provides a solution. The bug arises from accessing object properties without proper null checks, which can lead to runtime errors if the objects are null or undefined. The solution showcases how to implement null checks to handle these cases gracefully.
